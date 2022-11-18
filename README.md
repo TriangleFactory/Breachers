@@ -1,10 +1,6 @@
 # Breachers
 
-## Wishlist now! 
-
-Oculus: <url>
-
-Steam: <url>
+https://github.com/TriangleFactory/Breachers/releases
 
 ## Discord
 
