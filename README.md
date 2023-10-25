@@ -1,13 +1,13 @@
-![Breachers Alpha 1.0](img/banner.png)
-
 # Breachers
 
-Get Quest build on [SideQuest](https://sidequestvr.com/my-app/12918)
+Breachers is out now! Get it here:
 
-Get PCVR here: https://github.com/TriangleFactory/Breachers/releases/tag/v9.2.7-pcvr
+- Meta Quest: https://www.meta.com/experiences/5740397619319389
+- Oculus Rift: https://www.oculus.com/experiences/rift/3892543854139863
+- Steam: https://store.steampowered.com/app/1922010/Breachers
+- PlayStation: https://store.playstation.com/en-us/concept/10008882
 
-More info & Press kit: https://www.breachersvr.com/
+## More info
 
-## Instructions on our Discord
-
-https://breachersvr.com/discord
+- Media, maps and press kit: https://www.breachersvr.com
+- The Breachers Discord: https://breachersvr.com/discord
